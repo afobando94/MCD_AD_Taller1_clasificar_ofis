@@ -1,0 +1,95 @@
+# 📊 Clasificación de Oficinas y Priorización de Riesgo
+
+### Análisis de People Analytics aplicado a Riesgo Psicosocial, Desempeño y Engagement
+
+## 1. 🎯 Descripción del problema e impacto
+
+## 2. 🗂️ Complejidad y disponibilidad de los datos
+
+### 2.1 Fuente y características del conjunto de datos
+
+### 2.2 Unidad de análisis
+
+### 2.3 Periodos disponibles
+
+### 2.4 Variables disponibles
+
+### 2.5 Calidad y limitaciones de los datos
+
+## 3. 🤖 Justificación del uso de Ciencia de Datos e IA
+
+## 4. 🎯 Pregunta de análisis SMART
+
+### 4.1 Pregunta SMART
+
+### 4.2 Objetivo general
+
+### 4.3 Objetivos específicos
+
+## 5. 🔎 Análisis Exploratorio de Datos
+
+### 5.1 Carga de librerías y datos
+
+### 5.2 Exploración y calidad de los datos
+
+### 5.3 Transformación y ajuste de tipos de datos
+
+### 5.4 Análisis de variables categóricas y numéricas
+
+### 5.5 Análisis de Riesgo Psicosocial
+
+### 5.6 Análisis de Evaluación del Desempeño
+
+### 5.7 Análisis de Engagement
+
+### 5.8 Relación entre las dimensiones
+
+### 5.9 Hallazgos principales
+
+## 6. 🧮 Modelamiento no supervisado: Clusterización de oficinas
+
+### 6.1 Objetivo y selección de variables
+
+### 6.2 Preparación de los datos
+- Construcción de indicadores
+- Tratamiento de valores faltantes
+- Estandarización de variables
+
+### 6.3 Determinación del número óptimo de clusters
+- Método del codo
+- Silhouette Score
+- Evaluación de alternativas
+
+### 6.4 Construcción del modelo K-Means
+
+### 6.5 Caracterización y visualización de los clusters
+
+### 6.6 Identificación de oficinas prioritarias
+
+### 6.7 Hallazgos principales
+
+## 7. 📊 Interpretación estratégica
+
+### 7.1 Perfil de los clusters
+
+### 7.2 Identificación de perfiles de mayor vulnerabilidad
+
+### 7.3 Priorización y recomendaciones de intervención
+
+## 8. 🧠 Prototipo de solución con IA generativa
+
+### 8.1 Aplicación de IA generativa al análisis
+
+### 8.2 Generación de recomendaciones de intervención
+
+### 8.3 Propuesta de automatización del seguimiento
+
+## 9. 📌 Conclusiones
+
+### 9.1 Principales hallazgos
+
+### 9.2 Respuesta a la pregunta SMART
+
+### 9.3 Impacto potencial para la organización
+
+### 9.4 Limitaciones y próximos pasos
